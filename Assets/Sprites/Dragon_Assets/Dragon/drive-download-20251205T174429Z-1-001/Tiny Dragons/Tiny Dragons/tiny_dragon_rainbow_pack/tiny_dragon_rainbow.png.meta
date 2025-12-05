@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: e76198e9d69e87a4dac3b0a17303b6d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4944776616020523068
+    second: tiny_dragon_rainbow_0
+  - first:
+      213: 1505183643928569473
+    second: tiny_dragon_rainbow_1
+  - first:
+      213: -2625221568498196587
+    second: tiny_dragon_rainbow_2
+  - first:
+      213: 3758672593787743771
+    second: tiny_dragon_rainbow_3
+  - first:
+      213: -8787375352321109663
+    second: tiny_dragon_rainbow_4
+  - first:
+      213: -7795879314208886675
+    second: tiny_dragon_rainbow_5
+  - first:
+      213: -6611457521207005849
+    second: tiny_dragon_rainbow_6
+  - first:
+      213: 8539276558134668315
+    second: tiny_dragon_rainbow_7
+  - first:
+      213: -6334172769231634393
+    second: tiny_dragon_rainbow_8
+  - first:
+      213: -6033767601587801110
+    second: tiny_dragon_rainbow_9
+  - first:
+      213: -7590619498091493101
+    second: tiny_dragon_rainbow_10
+  - first:
+      213: -5758307211756946133
+    second: tiny_dragon_rainbow_11
+  - first:
+      213: -3410868150437580934
+    second: tiny_dragon_rainbow_12
+  - first:
+      213: 5203770918926954305
+    second: tiny_dragon_rainbow_13
+  - first:
+      213: 1270068148505125606
+    second: tiny_dragon_rainbow_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiny_dragon_rainbow_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 26
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38bf8b32206f9440800000000000000
+      internalID: 4944776616020523068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_rainbow_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 13
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1862712ac8c73e410800000000000000
+      internalID: 1505183643928569473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_rainbow_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 26
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f98f874e6519bd0800000000000000
+      internalID: -2625221568498196587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_rainbow_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 15
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ee6bb4fcc792430800000000000000
+      internalID: 3758672593787743771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_rainbow_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 27
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16190e0bca8fc0680800000000000000
+      internalID: -8787375352321109663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_rainbow_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 30
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6073cc61197fc390800000000000000
+      internalID: -7795879314208886675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_rainbow_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 17
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d2fd8d9626f34a0800000000000000
+      internalID: -6611457521207005849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_rainbow_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 30
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cef6e59ca918670800000000000000
+      internalID: 8539276558134668315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_rainbow_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 15
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7200fff1d6f7818a0800000000000000
+      internalID: -6334172769231634393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_rainbow_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 27
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3391aa550c34ca0800000000000000
+      internalID: -6033767601587801110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_rainbow_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 26
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3194a1788c3b8a690800000000000000
+      internalID: -7590619498091493101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_rainbow_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 13
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d38a789126610b0800000000000000
+      internalID: -5758307211756946133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_rainbow_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 26
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f697d1d792aa0d0800000000000000
+      internalID: -3410868150437580934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_rainbow_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 12
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f262b7412873840800000000000000
+      internalID: 5203770918926954305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_rainbow_14
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 24
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2af20804030a110800000000000000
+      internalID: 1270068148505125606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tiny_dragon_rainbow_0: 4944776616020523068
+      tiny_dragon_rainbow_1: 1505183643928569473
+      tiny_dragon_rainbow_10: -7590619498091493101
+      tiny_dragon_rainbow_11: -5758307211756946133
+      tiny_dragon_rainbow_12: -3410868150437580934
+      tiny_dragon_rainbow_13: 5203770918926954305
+      tiny_dragon_rainbow_14: 1270068148505125606
+      tiny_dragon_rainbow_2: -2625221568498196587
+      tiny_dragon_rainbow_3: 3758672593787743771
+      tiny_dragon_rainbow_4: -8787375352321109663
+      tiny_dragon_rainbow_5: -7795879314208886675
+      tiny_dragon_rainbow_6: -6611457521207005849
+      tiny_dragon_rainbow_7: 8539276558134668315
+      tiny_dragon_rainbow_8: -6334172769231634393
+      tiny_dragon_rainbow_9: -6033767601587801110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

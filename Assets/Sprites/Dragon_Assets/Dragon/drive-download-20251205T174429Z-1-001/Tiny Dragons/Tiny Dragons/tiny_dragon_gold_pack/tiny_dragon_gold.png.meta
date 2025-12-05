@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 3ff410ad7ce5cd9408674ece4ab64ce0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -412228925902235942
+    second: tiny_dragon_gold_0
+  - first:
+      213: -4569177543853776149
+    second: tiny_dragon_gold_1
+  - first:
+      213: -3367295556921132602
+    second: tiny_dragon_gold_2
+  - first:
+      213: 7390021652102748951
+    second: tiny_dragon_gold_3
+  - first:
+      213: 4472509201915337813
+    second: tiny_dragon_gold_4
+  - first:
+      213: 6768862174706093384
+    second: tiny_dragon_gold_5
+  - first:
+      213: 3703997002154340258
+    second: tiny_dragon_gold_6
+  - first:
+      213: -6710821575925741270
+    second: tiny_dragon_gold_7
+  - first:
+      213: -5764813859748765456
+    second: tiny_dragon_gold_8
+  - first:
+      213: 2290263271673509008
+    second: tiny_dragon_gold_9
+  - first:
+      213: -5873362356948930344
+    second: tiny_dragon_gold_10
+  - first:
+      213: 5327919974055819119
+    second: tiny_dragon_gold_11
+  - first:
+      213: -2557788304778606502
+    second: tiny_dragon_gold_12
+  - first:
+      213: -8255981579973567752
+    second: tiny_dragon_gold_13
+  - first:
+      213: 5825258220497288503
+    second: tiny_dragon_gold_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiny_dragon_gold_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 26
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6d479d9f7774af0800000000000000
+      internalID: -412228925902235942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_gold_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 13
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be267ee7b350790c0800000000000000
+      internalID: -4569177543853776149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_gold_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 26
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9f6fb1886f441d0800000000000000
+      internalID: -3367295556921132602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_gold_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 15
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b9700e981ae8660800000000000000
+      internalID: 7390021652102748951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_gold_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 27
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c54da3c6b811e30800000000000000
+      internalID: 4472509201915337813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_gold_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 30
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d4fe0f844dfed50800000000000000
+      internalID: 6768862174706093384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_gold_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 17
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af658a16ad376330800000000000000
+      internalID: 3703997002154340258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_gold_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 30
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a294be7055f5ed2a0800000000000000
+      internalID: -6710821575925741270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_gold_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 15
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f02d6d76544fffa0800000000000000
+      internalID: -5764813859748765456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_gold_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 27
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094393eaf46a8cf10800000000000000
+      internalID: 2290263271673509008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_gold_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 26
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d078e40e00ad7ea0800000000000000
+      internalID: -5873362356948930344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_gold_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 13
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f673e45ecf290f940800000000000000
+      internalID: 5327919974055819119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_gold_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 26
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58c50ba619e08cd0800000000000000
+      internalID: -2557788304778606502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_gold_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 12
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fad18dbe7cdc6d80800000000000000
+      internalID: -8255981579973567752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny_dragon_gold_14
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 24
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d3aadec7977d050800000000000000
+      internalID: 5825258220497288503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tiny_dragon_gold_0: -412228925902235942
+      tiny_dragon_gold_1: -4569177543853776149
+      tiny_dragon_gold_10: -5873362356948930344
+      tiny_dragon_gold_11: 5327919974055819119
+      tiny_dragon_gold_12: -2557788304778606502
+      tiny_dragon_gold_13: -8255981579973567752
+      tiny_dragon_gold_14: 5825258220497288503
+      tiny_dragon_gold_2: -3367295556921132602
+      tiny_dragon_gold_3: 7390021652102748951
+      tiny_dragon_gold_4: 4472509201915337813
+      tiny_dragon_gold_5: 6768862174706093384
+      tiny_dragon_gold_6: 3703997002154340258
+      tiny_dragon_gold_7: -6710821575925741270
+      tiny_dragon_gold_8: -5764813859748765456
+      tiny_dragon_gold_9: 2290263271673509008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

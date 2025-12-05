@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: 69850a567d753754f9b3aab4c150f8af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7726613090209351088
+    second: EarthDragon_0
+  - first:
+      213: -2938028278111676806
+    second: EarthDragon_1
+  - first:
+      213: 3683742271069348894
+    second: EarthDragon_2
+  - first:
+      213: 9008367817557736559
+    second: EarthDragon_3
+  - first:
+      213: 1656239097240658931
+    second: EarthDragon_4
+  - first:
+      213: -9089278231822684598
+    second: EarthDragon_5
+  - first:
+      213: -6764471137905662723
+    second: EarthDragon_6
+  - first:
+      213: 4933020768688154657
+    second: EarthDragon_7
+  - first:
+      213: -6702515919168445864
+    second: EarthDragon_8
+  - first:
+      213: 5413110937204780536
+    second: EarthDragon_9
+  - first:
+      213: -4479092347357025283
+    second: EarthDragon_10
+  - first:
+      213: 99952172951721954
+    second: EarthDragon_11
+  - first:
+      213: 7944529263235586970
+    second: EarthDragon_12
+  - first:
+      213: 8595162143979601411
+    second: EarthDragon_13
+  - first:
+      213: -1684845620581296692
+    second: EarthDragon_14
+  - first:
+      213: -6563554175899387920
+    second: EarthDragon_15
+  - first:
+      213: 327412049353053829
+    second: EarthDragon_16
+  - first:
+      213: -6126990554246090861
+    second: EarthDragon_17
+  - first:
+      213: -6407195362308785757
+    second: EarthDragon_18
+  - first:
+      213: 7006650497325295785
+    second: EarthDragon_19
+  - first:
+      213: -5168464931960852323
+    second: EarthDragon_20
+  - first:
+      213: 128586583214668286
+    second: EarthDragon_21
+  - first:
+      213: 4005687899210223158
+    second: EarthDragon_22
+  - first:
+      213: -8615167752464637334
+    second: EarthDragon_23
+  - first:
+      213: 5594290626290272950
+    second: EarthDragon_24
+  - first:
+      213: -6600830764822682396
+    second: EarthDragon_25
+  - first:
+      213: -4263423353181453978
+    second: EarthDragon_26
+  - first:
+      213: 7309980060640577136
+    second: EarthDragon_27
+  - first:
+      213: -5861076969868131068
+    second: EarthDragon_28
+  - first:
+      213: -2045943188007152020
+    second: EarthDragon_29
+  - first:
+      213: -8673918734028619202
+    second: EarthDragon_30
+  - first:
+      213: 1727948238735261573
+    second: EarthDragon_31
+  - first:
+      213: 8605280669546099303
+    second: EarthDragon_32
+  - first:
+      213: -7714357404945770250
+    second: EarthDragon_33
+  - first:
+      213: -1167280476288933512
+    second: EarthDragon_34
+  - first:
+      213: 554692727975850040
+    second: EarthDragon_35
+  - first:
+      213: 6625440939219006414
+    second: EarthDragon_36
+  - first:
+      213: -6023489724589276950
+    second: EarthDragon_37
+  - first:
+      213: -8673753636942810023
+    second: EarthDragon_38
+  - first:
+      213: -4066483752393309898
+    second: EarthDragon_39
+  - first:
+      213: -3845633190856854877
+    second: EarthDragon_40
+  - first:
+      213: 9142150009323804053
+    second: EarthDragon_41
+  - first:
+      213: -5496909207218749274
+    second: EarthDragon_42
+  - first:
+      213: -3587244432643352030
+    second: EarthDragon_43
+  - first:
+      213: 5288909499268367271
+    second: EarthDragon_44
+  - first:
+      213: 2117451598289490080
+    second: EarthDragon_45
+  - first:
+      213: -6601307204506017956
+    second: EarthDragon_46
+  - first:
+      213: -8464000251351335876
+    second: EarthDragon_47
+  - first:
+      213: -2156698464453718759
+    second: EarthDragon_48
+  - first:
+      213: 4902684437250358296
+    second: EarthDragon_49
+  - first:
+      213: -3889014956132386624
+    second: EarthDragon_50
+  - first:
+      213: 6676834287946240982
+    second: EarthDragon_51
+  - first:
+      213: 2435376561547011788
+    second: EarthDragon_52
+  - first:
+      213: -2639784473012494693
+    second: EarthDragon_53
+  - first:
+      213: 818986226256565952
+    second: EarthDragon_54
+  - first:
+      213: -7421279924462058476
+    second: EarthDragon_55
+  - first:
+      213: 3777637550133973725
+    second: EarthDragon_56
+  - first:
+      213: 5436966778562901599
+    second: EarthDragon_57
+  - first:
+      213: -5050103375983332322
+    second: EarthDragon_58
+  - first:
+      213: -2913949425852621453
+    second: EarthDragon_59
+  - first:
+      213: 6723325886003032705
+    second: EarthDragon_60
+  - first:
+      213: -2667102035858573096
+    second: EarthDragon_61
+  - first:
+      213: 6826825383026785033
+    second: EarthDragon_62
+  - first:
+      213: 6904990609709779472
+    second: EarthDragon_63
+  - first:
+      213: -3352349241556931139
+    second: EarthDragon_64
+  - first:
+      213: 475419813102255998
+    second: EarthDragon_65
+  - first:
+      213: -2907293471524447863
+    second: EarthDragon_66
+  - first:
+      213: -4474652058358889092
+    second: EarthDragon_67
+  - first:
+      213: 91298433707249821
+    second: EarthDragon_68
+  - first:
+      213: -4980860349553539570
+    second: EarthDragon_69
+  - first:
+      213: -204196445001707626
+    second: EarthDragon_70
+  - first:
+      213: -8094247100852048884
+    second: EarthDragon_71
+  - first:
+      213: 585350274631549472
+    second: EarthDragon_72
+  - first:
+      213: 6765486221865507458
+    second: EarthDragon_73
+  - first:
+      213: 4208014528682056380
+    second: EarthDragon_74
+  - first:
+      213: 5325245360417732793
+    second: EarthDragon_75
+  - first:
+      213: -5920435662988918174
+    second: EarthDragon_76
+  - first:
+      213: -5684772098528819958
+    second: EarthDragon_77
+  - first:
+      213: -818852366993405908
+    second: EarthDragon_78
+  - first:
+      213: 3336048521413433347
+    second: EarthDragon_79
+  - first:
+      213: -4091435586471885628
+    second: EarthDragon_80
+  - first:
+      213: 4955642857149756197
+    second: EarthDragon_81
+  - first:
+      213: -6785583825776620339
+    second: EarthDragon_82
+  - first:
+      213: -8747288288995465586
+    second: EarthDragon_83
+  - first:
+      213: -2589870623755121958
+    second: EarthDragon_84
+  - first:
+      213: -3044666070552600040
+    second: EarthDragon_85
+  - first:
+      213: -620881559854150562
+    second: EarthDragon_86
+  - first:
+      213: -8298769359563854606
+    second: EarthDragon_87
+  - first:
+      213: 2616514045392835984
+    second: EarthDragon_88
+  - first:
+      213: 5396394788860759960
+    second: EarthDragon_89
+  - first:
+      213: -4333231759844887358
+    second: EarthDragon_90
+  - first:
+      213: -2300051139811591720
+    second: EarthDragon_91
+  - first:
+      213: 5338415269616379206
+    second: EarthDragon_92
+  - first:
+      213: 6344756750627377543
+    second: EarthDragon_93
+  - first:
+      213: -6716140495710163631
+    second: EarthDragon_94
+  - first:
+      213: -6653905405451453905
+    second: EarthDragon_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EarthDragon_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 453
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5cfce0ba17a3b60800000000000000
+      internalID: 7726613090209351088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 454
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76d91fe8d60a37d0800000000000000
+      internalID: -2938028278111676806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 453
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14ed2704184f1330800000000000000
+      internalID: 3683742271069348894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 463
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cf69b3dc6240d70800000000000000
+      internalID: 9008367817557736559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_4
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 454
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3a42e0fa42cf610800000000000000
+      internalID: 1656239097240658931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_5
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 463
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ea48fea956cd180800000000000000
+      internalID: -9089278231822684598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_6
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 453
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df420cbf655cf12a0800000000000000
+      internalID: -6764471137905662723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_7
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 453
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128284bb04c957440800000000000000
+      internalID: 4933020768688154657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_8
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 453
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85260907841ebf2a0800000000000000
+      internalID: -6702515919168445864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_9
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 469
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd6fdda7bb3f1b40800000000000000
+      internalID: 5413110937204780536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_10
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 468
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb2d97cd3117d1c0800000000000000
+      internalID: -4479092347357025283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_11
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 470
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7d053c8f9136100800000000000000
+      internalID: 99952172951721954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 396
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b5ad2e543a04e60800000000000000
+      internalID: 7944529263235586970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 397
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ef9ca4e66284770800000000000000
+      internalID: 8595162143979601411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 396
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc511e3b5d93e98e0800000000000000
+      internalID: -1684845620581296692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 397
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f73c71904299e4a0800000000000000
+      internalID: -6563554175899387920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 397
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5861fd036833b8400800000000000000
+      internalID: 327412049353053829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 398
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fecf79d8e88faa0800000000000000
+      internalID: -6126990554246090861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_18
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 399
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9fd07c3c11517a0800000000000000
+      internalID: -6407195362308785757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_19
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 399
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a86366218f9c3160800000000000000
+      internalID: 7006650497325295785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_20
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 399
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90f860378ce548b0800000000000000
+      internalID: -5168464931960852323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_21
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 413
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9346fe0d4d8c100800000000000000
+      internalID: 128586583214668286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_22
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 414
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e8189dbef079730800000000000000
+      internalID: 4005687899210223158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_23
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 413
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62e1f10396c07880800000000000000
+      internalID: -8615167752464637334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 332
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba445e4fa9e2ad40800000000000000
+      internalID: 5594290626290272950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 333
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4264064632564a0800000000000000
+      internalID: -6600830764822682396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 332
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661c3828c0745d4c0800000000000000
+      internalID: -4263423353181453978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_27
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 334
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0768bad9224427560800000000000000
+      internalID: 7309980060640577136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_28
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 333
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40589c99c8549aea0800000000000000
+      internalID: -5861076969868131068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_29
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 333
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c661438a2895b93e0800000000000000
+      internalID: -2045943188007152020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_30
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 333
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e324e972edc00a780800000000000000
+      internalID: -8673918734028619202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_31
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 333
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fb310a4c7eaf710800000000000000
+      internalID: 1727948238735261573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_32
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 333
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762b4dc1d291c6770800000000000000
+      internalID: 8605280669546099303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_33
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 346
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f89dc700d811f490800000000000000
+      internalID: -7714357404945770250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_34
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 347
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871ac81679cfccfe0800000000000000
+      internalID: -1167280476288933512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_35
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 346
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8303e72e81aa2b700800000000000000
+      internalID: 554692727975850040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 263
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3ba7e5e6b42fb50800000000000000
+      internalID: 6625440939219006414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 264
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae004a16204486ca0800000000000000
+      internalID: -6023489724589276950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 263
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95475c0d503a0a780800000000000000
+      internalID: -8673753636942810023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_39
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 258
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63103b58292f097c0800000000000000
+      internalID: -4066483752393309898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_40
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 264
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2768aecf091aac0800000000000000
+      internalID: -3845633190856854877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_41
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 258
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595541d0ff07fde70800000000000000
+      internalID: 9142150009323804053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_42
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 263
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0072d233e07b3b0800000000000000
+      internalID: -5496909207218749274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_43
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 263
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a9bcdc13c873ec0800000000000000
+      internalID: -3587244432643352030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_44
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 263
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a38411fa2bf56940800000000000000
+      internalID: 5288909499268367271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_45
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 269
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0d0298203b26d10800000000000000
+      internalID: 2117451598289490080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_46
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 271
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f113e92127364a0800000000000000
+      internalID: -6601307204506017956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_47
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 269
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cf2679d94d98a80800000000000000
+      internalID: -8464000251351335876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_48
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 206
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d0b9a5c2ed112e0800000000000000
+      internalID: -2156698464453718759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_49
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 200
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cb4282585d90440800000000000000
+      internalID: 4902684437250358296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_50
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 206
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c83c859081770ac0800000000000000
+      internalID: -3889014956132386624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 195
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d31f25d861e8ac50800000000000000
+      internalID: 6676834287946240982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_52
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 191
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6625d54123cc120800000000000000
+      internalID: 2435376561547011788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_53
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 195
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e9f7a020a9d5bd0800000000000000
+      internalID: -2639784473012494693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_54
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 206
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6d5f332af9d5b00800000000000000
+      internalID: 818986226256565952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_55
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 200
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41483b37a31520990800000000000000
+      internalID: -7421279924462058476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_56
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 206
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd299e9465ddc6430800000000000000
+      internalID: 3777637550133973725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_57
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 204
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5677d39a7cf37b40800000000000000
+      internalID: 5436966778562901599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_58
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 204
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1433837cbd6ae9b0800000000000000
+      internalID: -5050103375983332322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_59
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 204
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dd99a9f629f87d0800000000000000
+      internalID: -2913949425852621453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_60
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 141
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1823668854d0e4d50800000000000000
+      internalID: 6723325886003032705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_61
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 139
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8bdec44dc8cfad0800000000000000
+      internalID: -2667102035858573096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_62
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 143
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b7eea0481cdbe50800000000000000
+      internalID: 6826825383026785033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_63
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 132
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ac825106473df50800000000000000
+      internalID: 6904990609709779472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_64
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 133
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbde2f550201a71d0800000000000000
+      internalID: -3352349241556931139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_65
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 135
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f74271dc7099600800000000000000
+      internalID: 475419813102255998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_66
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 143
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98919fbbdf737a7d0800000000000000
+      internalID: -2907293471524447863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_67
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 139
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c754c0029a7d6e1c0800000000000000
+      internalID: -4474652058358889092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_68
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 142
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d909ba5117b544100800000000000000
+      internalID: 91298433707249821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_69
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 146
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06880dd6ed60eab0800000000000000
+      internalID: -4980860349553539570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_70
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 146
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f86474a6c8a2df0800000000000000
+      internalID: -204196445001707626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_71
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 146
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c6a7d95257baf80800000000000000
+      internalID: -8094247100852048884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_72
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 76
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022479439f49f1800800000000000000
+      internalID: 585350274631549472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_73
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 72
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ad71bafd5d3ed50800000000000000
+      internalID: 6765486221865507458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 74
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbad6c73beed56a30800000000000000
+      internalID: 4208014528682056380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_75
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 70
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8fe71e07217e940800000000000000
+      internalID: 5325245360417732793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_76
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 68
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262cdffd12366dda0800000000000000
+      internalID: -5920435662988918174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_77
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 67
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05432645e1ab11b0800000000000000
+      internalID: -5684772098528819958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_78
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 79
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28ced55c1ad2a4f0800000000000000
+      internalID: -818852366993405908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_79
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 76
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308905084760c4e20800000000000000
+      internalID: 3336048521413433347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_80
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 80
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c483fee20d4837c0800000000000000
+      internalID: -4091435586471885628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_81
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 69
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523fc162ceaf5c440800000000000000
+      internalID: 4955642857149756197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_82
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 69
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccc2f64673c4d1a0800000000000000
+      internalID: -6785583825776620339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_83
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 69
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86ad7275a36b9680800000000000000
+      internalID: -8747288288995465586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_84
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 7
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada4bd0b36eee0cd0800000000000000
+      internalID: -2589870623755121958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_85
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8122705175c2fb5d0800000000000000
+      internalID: -3044666070552600040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_86
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 7
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c8d49c28f2267f0800000000000000
+      internalID: -620881559854150562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 7
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcec4a7c39d4dc80800000000000000
+      internalID: -8298769359563854606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_88
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 3
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095d57159a9bf4420800000000000000
+      internalID: 2616514045392835984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_89
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 7
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f80d91878d3ea40800000000000000
+      internalID: 5396394788860759960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_90
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 16
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c431014ca44dd3c0800000000000000
+      internalID: -4333231759844887358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_91
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 10
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d93c4eaca39410e0800000000000000
+      internalID: -2300051139811591720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_92
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 16
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6456101576cd51a40800000000000000
+      internalID: 5338415269616379206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_93
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 7
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781186316aa1d0850800000000000000
+      internalID: 6344756750627377543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_94
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 7
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d64938dc97bc2a0800000000000000
+      internalID: -6716140495710163631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthDragon_95
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 7
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ab303a94498a3a0800000000000000
+      internalID: -6653905405451453905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EarthDragon_0: 7726613090209351088
+      EarthDragon_1: -2938028278111676806
+      EarthDragon_10: -4479092347357025283
+      EarthDragon_11: 99952172951721954
+      EarthDragon_12: 7944529263235586970
+      EarthDragon_13: 8595162143979601411
+      EarthDragon_14: -1684845620581296692
+      EarthDragon_15: -6563554175899387920
+      EarthDragon_16: 327412049353053829
+      EarthDragon_17: -6126990554246090861
+      EarthDragon_18: -6407195362308785757
+      EarthDragon_19: 7006650497325295785
+      EarthDragon_2: 3683742271069348894
+      EarthDragon_20: -5168464931960852323
+      EarthDragon_21: 128586583214668286
+      EarthDragon_22: 4005687899210223158
+      EarthDragon_23: -8615167752464637334
+      EarthDragon_24: 5594290626290272950
+      EarthDragon_25: -6600830764822682396
+      EarthDragon_26: -4263423353181453978
+      EarthDragon_27: 7309980060640577136
+      EarthDragon_28: -5861076969868131068
+      EarthDragon_29: -2045943188007152020
+      EarthDragon_3: 9008367817557736559
+      EarthDragon_30: -8673918734028619202
+      EarthDragon_31: 1727948238735261573
+      EarthDragon_32: 8605280669546099303
+      EarthDragon_33: -7714357404945770250
+      EarthDragon_34: -1167280476288933512
+      EarthDragon_35: 554692727975850040
+      EarthDragon_36: 6625440939219006414
+      EarthDragon_37: -6023489724589276950
+      EarthDragon_38: -8673753636942810023
+      EarthDragon_39: -4066483752393309898
+      EarthDragon_4: 1656239097240658931
+      EarthDragon_40: -3845633190856854877
+      EarthDragon_41: 9142150009323804053
+      EarthDragon_42: -5496909207218749274
+      EarthDragon_43: -3587244432643352030
+      EarthDragon_44: 5288909499268367271
+      EarthDragon_45: 2117451598289490080
+      EarthDragon_46: -6601307204506017956
+      EarthDragon_47: -8464000251351335876
+      EarthDragon_48: -2156698464453718759
+      EarthDragon_49: 4902684437250358296
+      EarthDragon_5: -9089278231822684598
+      EarthDragon_50: -3889014956132386624
+      EarthDragon_51: 6676834287946240982
+      EarthDragon_52: 2435376561547011788
+      EarthDragon_53: -2639784473012494693
+      EarthDragon_54: 818986226256565952
+      EarthDragon_55: -7421279924462058476
+      EarthDragon_56: 3777637550133973725
+      EarthDragon_57: 5436966778562901599
+      EarthDragon_58: -5050103375983332322
+      EarthDragon_59: -2913949425852621453
+      EarthDragon_6: -6764471137905662723
+      EarthDragon_60: 6723325886003032705
+      EarthDragon_61: -2667102035858573096
+      EarthDragon_62: 6826825383026785033
+      EarthDragon_63: 6904990609709779472
+      EarthDragon_64: -3352349241556931139
+      EarthDragon_65: 475419813102255998
+      EarthDragon_66: -2907293471524447863
+      EarthDragon_67: -4474652058358889092
+      EarthDragon_68: 91298433707249821
+      EarthDragon_69: -4980860349553539570
+      EarthDragon_7: 4933020768688154657
+      EarthDragon_70: -204196445001707626
+      EarthDragon_71: -8094247100852048884
+      EarthDragon_72: 585350274631549472
+      EarthDragon_73: 6765486221865507458
+      EarthDragon_74: 4208014528682056380
+      EarthDragon_75: 5325245360417732793
+      EarthDragon_76: -5920435662988918174
+      EarthDragon_77: -5684772098528819958
+      EarthDragon_78: -818852366993405908
+      EarthDragon_79: 3336048521413433347
+      EarthDragon_8: -6702515919168445864
+      EarthDragon_80: -4091435586471885628
+      EarthDragon_81: 4955642857149756197
+      EarthDragon_82: -6785583825776620339
+      EarthDragon_83: -8747288288995465586
+      EarthDragon_84: -2589870623755121958
+      EarthDragon_85: -3044666070552600040
+      EarthDragon_86: -620881559854150562
+      EarthDragon_87: -8298769359563854606
+      EarthDragon_88: 2616514045392835984
+      EarthDragon_89: 5396394788860759960
+      EarthDragon_9: 5413110937204780536
+      EarthDragon_90: -4333231759844887358
+      EarthDragon_91: -2300051139811591720
+      EarthDragon_92: 5338415269616379206
+      EarthDragon_93: 6344756750627377543
+      EarthDragon_94: -6716140495710163631
+      EarthDragon_95: -6653905405451453905
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

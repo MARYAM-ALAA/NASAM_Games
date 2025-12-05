@@ -1,0 +1,15 @@
+Tiny Dragon Sprite Pack — Simple Commercial License
+
+You are granted a non-exclusive, non-transferable license to use, modify, and include these sprites in your own projects (commercial and non-commercial).
+
+You MAY:
+- Use in unlimited projects.
+- Modify, recolor, and combine with other assets.
+- Distribute as part of your game/app/video.
+
+You MAY NOT:
+- Resell, redistribute, or repackage these assets “as-is” or as part of a competing asset pack.
+- Claim authorship of the artwork.
+- Use the assets for the purpose of training a generative AI model.
+
+Copyright © Browser Games Plus. All rights reserved.
