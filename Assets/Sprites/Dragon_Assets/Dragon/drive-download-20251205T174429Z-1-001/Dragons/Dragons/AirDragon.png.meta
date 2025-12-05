@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: c14d0eeeeea51ff4584e1a2dd3bbc530
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6575641629114896409
+    second: AirDragon_0
+  - first:
+      213: -1875236494240580269
+    second: AirDragon_1
+  - first:
+      213: 8591215800757327451
+    second: AirDragon_2
+  - first:
+      213: 3027952594131068146
+    second: AirDragon_3
+  - first:
+      213: -8885152915143931261
+    second: AirDragon_4
+  - first:
+      213: -4190109189054825354
+    second: AirDragon_5
+  - first:
+      213: -5680367283330284866
+    second: AirDragon_6
+  - first:
+      213: 7460608717309283450
+    second: AirDragon_7
+  - first:
+      213: -7337967344827764785
+    second: AirDragon_8
+  - first:
+      213: -3272724351455151845
+    second: AirDragon_9
+  - first:
+      213: 8615079736592830054
+    second: AirDragon_10
+  - first:
+      213: -4949575948501653797
+    second: AirDragon_11
+  - first:
+      213: 5145061409200239723
+    second: AirDragon_12
+  - first:
+      213: -4055174999237699349
+    second: AirDragon_13
+  - first:
+      213: 5041400074593446240
+    second: AirDragon_14
+  - first:
+      213: -7008087771472418589
+    second: AirDragon_15
+  - first:
+      213: 4983705159511036547
+    second: AirDragon_16
+  - first:
+      213: 5296566113939337216
+    second: AirDragon_17
+  - first:
+      213: -4155487291674120153
+    second: AirDragon_18
+  - first:
+      213: -527682548634426523
+    second: AirDragon_19
+  - first:
+      213: 5460788140071402298
+    second: AirDragon_20
+  - first:
+      213: -1184653134213762
+    second: AirDragon_21
+  - first:
+      213: -5674631794917404383
+    second: AirDragon_22
+  - first:
+      213: -7878021026214052018
+    second: AirDragon_23
+  - first:
+      213: -46019591479671095
+    second: AirDragon_24
+  - first:
+      213: 4371692170816578039
+    second: AirDragon_25
+  - first:
+      213: 2969277137507885226
+    second: AirDragon_26
+  - first:
+      213: 8064187774861362698
+    second: AirDragon_27
+  - first:
+      213: -7550186519869645465
+    second: AirDragon_28
+  - first:
+      213: 6555485754380753062
+    second: AirDragon_29
+  - first:
+      213: 4442833293289528400
+    second: AirDragon_30
+  - first:
+      213: 6798104759621710432
+    second: AirDragon_31
+  - first:
+      213: 357084227133454749
+    second: AirDragon_32
+  - first:
+      213: 8055450456548773297
+    second: AirDragon_33
+  - first:
+      213: -3980220543403573708
+    second: AirDragon_34
+  - first:
+      213: 3538537084242377992
+    second: AirDragon_35
+  - first:
+      213: 5273983474962673627
+    second: AirDragon_36
+  - first:
+      213: -8581259815752002320
+    second: AirDragon_37
+  - first:
+      213: -5605738755152141455
+    second: AirDragon_38
+  - first:
+      213: -7115966353245378477
+    second: AirDragon_39
+  - first:
+      213: 2761608173309606584
+    second: AirDragon_40
+  - first:
+      213: 6517503552174090984
+    second: AirDragon_41
+  - first:
+      213: 7643869247260027800
+    second: AirDragon_42
+  - first:
+      213: -1454119135680471462
+    second: AirDragon_43
+  - first:
+      213: -5579995318168647665
+    second: AirDragon_44
+  - first:
+      213: 2224777709901767484
+    second: AirDragon_45
+  - first:
+      213: -8164061168097012399
+    second: AirDragon_46
+  - first:
+      213: -9101561866886377066
+    second: AirDragon_47
+  - first:
+      213: -3479651494640278509
+    second: AirDragon_48
+  - first:
+      213: -5756853799752762320
+    second: AirDragon_49
+  - first:
+      213: 8700464696048995859
+    second: AirDragon_50
+  - first:
+      213: 2266813649192500704
+    second: AirDragon_51
+  - first:
+      213: -7554123968856352246
+    second: AirDragon_52
+  - first:
+      213: 4074953862116577818
+    second: AirDragon_53
+  - first:
+      213: -7993774986992679219
+    second: AirDragon_54
+  - first:
+      213: 6997681478111495489
+    second: AirDragon_55
+  - first:
+      213: -4347280600449691631
+    second: AirDragon_56
+  - first:
+      213: 1033279710228032111
+    second: AirDragon_57
+  - first:
+      213: -7832490327858025796
+    second: AirDragon_58
+  - first:
+      213: 4322928644126037580
+    second: AirDragon_59
+  - first:
+      213: -6439643230301739127
+    second: AirDragon_60
+  - first:
+      213: -2619123036681457924
+    second: AirDragon_61
+  - first:
+      213: -1101751205535329198
+    second: AirDragon_62
+  - first:
+      213: -373305579893409670
+    second: AirDragon_63
+  - first:
+      213: -3741922645850711080
+    second: AirDragon_64
+  - first:
+      213: -6625492825392450513
+    second: AirDragon_65
+  - first:
+      213: -5220953526565154800
+    second: AirDragon_66
+  - first:
+      213: 1821551791985612503
+    second: AirDragon_67
+  - first:
+      213: -1235305017059200668
+    second: AirDragon_68
+  - first:
+      213: 9159667732090058972
+    second: AirDragon_69
+  - first:
+      213: -5326103380527521168
+    second: AirDragon_70
+  - first:
+      213: -6179793335830711990
+    second: AirDragon_71
+  - first:
+      213: 7001566685257322316
+    second: AirDragon_72
+  - first:
+      213: -751796356806382961
+    second: AirDragon_73
+  - first:
+      213: 8867664466997008738
+    second: AirDragon_74
+  - first:
+      213: -7272814347490790972
+    second: AirDragon_75
+  - first:
+      213: -8879596439317372680
+    second: AirDragon_76
+  - first:
+      213: -6277450905544763847
+    second: AirDragon_77
+  - first:
+      213: 2738758285597350628
+    second: AirDragon_78
+  - first:
+      213: 8136052400799497920
+    second: AirDragon_79
+  - first:
+      213: 350879166828620188
+    second: AirDragon_80
+  - first:
+      213: 8039076130812073119
+    second: AirDragon_81
+  - first:
+      213: -7483105694168374899
+    second: AirDragon_82
+  - first:
+      213: -1236030438730761554
+    second: AirDragon_83
+  - first:
+      213: 5613033883530941681
+    second: AirDragon_84
+  - first:
+      213: -4412488658962088667
+    second: AirDragon_85
+  - first:
+      213: -4603407415998686552
+    second: AirDragon_86
+  - first:
+      213: -3802449868108897678
+    second: AirDragon_87
+  - first:
+      213: -4063918501338751470
+    second: AirDragon_88
+  - first:
+      213: 3230972993278411999
+    second: AirDragon_89
+  - first:
+      213: 772917755115858879
+    second: AirDragon_90
+  - first:
+      213: 6653256987716218957
+    second: AirDragon_91
+  - first:
+      213: -892779748599092548
+    second: AirDragon_92
+  - first:
+      213: 4350626465015740492
+    second: AirDragon_93
+  - first:
+      213: -3877899212398621935
+    second: AirDragon_94
+  - first:
+      213: 933932200987488889
+    second: AirDragon_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AirDragon_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 453
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efe55e07c0aeb4a0800000000000000
+      internalID: -6575641629114896409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 454
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35df0fa0852d9f5e0800000000000000
+      internalID: -1875236494240580269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 453
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b561dd8a0412a3770800000000000000
+      internalID: 8591215800757327451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 463
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4a7e177d2750a20800000000000000
+      internalID: 3027952594131068146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_4
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 454
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ac1ddcf7891b480800000000000000
+      internalID: -8885152915143931261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_5
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 463
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c794884edb9d5c0800000000000000
+      internalID: -4190109189054825354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_6
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 453
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2095b3d084b21b0800000000000000
+      internalID: -5680367283330284866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_7
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 453
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c0763b918698760800000000000000
+      internalID: 7460608717309283450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_8
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 453
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfef1ef39d4a2a90800000000000000
+      internalID: -7337967344827764785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_9
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 469
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19bebfba82f492d0800000000000000
+      internalID: -3272724351455151845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_10
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 468
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e08433069ee8770800000000000000
+      internalID: 8615079736592830054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_11
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 470
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6edb816e29f4bb0800000000000000
+      internalID: -4949575948501653797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 396
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6473fa871ee66740800000000000000
+      internalID: 5145061409200239723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 397
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8546cc2df19b7c0800000000000000
+      internalID: -4055174999237699349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 396
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06925c848a6a6f540800000000000000
+      internalID: 5041400074593446240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 397
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8a0a26d454ebe90800000000000000
+      internalID: -7008087771472418589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 397
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382dfe1107da92540800000000000000
+      internalID: 4983705159511036547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 398
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000b9b671de218940800000000000000
+      internalID: 5296566113939337216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_18
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 399
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7203d1f235eb456c0800000000000000
+      internalID: -4155487291674120153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_19
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 399
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563e87e848b4da8f0800000000000000
+      internalID: -527682548634426523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_20
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 399
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b3f9281ed98cb40800000000000000
+      internalID: 5460788140071402298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_21
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 413
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dc0c2709acbfff0800000000000000
+      internalID: -1184653134213762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_22
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 414
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1219fc0b278af31b0800000000000000
+      internalID: -5674631794917404383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_23
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 413
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ff37fbd95aba290800000000000000
+      internalID: -7878021026214052018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 332
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c64525ec618c5ff0800000000000000
+      internalID: -46019591479671095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_25
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 333
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1e0ecfdde5bac30800000000000000
+      internalID: 4371692170816578039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_26
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 332
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0a8dc13ddf43920800000000000000
+      internalID: 2969277137507885226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_27
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 334
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06c8aa2e00c9ef60800000000000000
+      internalID: 8064187774861362698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_28
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 333
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d1a3fdc59583790800000000000000
+      internalID: -7550186519869645465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_29
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 333
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a89ff7af83c9fa50800000000000000
+      internalID: 6555485754380753062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_30
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 333
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c1dc2575d18ad30800000000000000
+      internalID: 4442833293289528400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_31
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 333
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062f42fc248b75e50800000000000000
+      internalID: 6798104759621710432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_32
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 333
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d993f21763e94f400800000000000000
+      internalID: 357084227133454749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_33
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 346
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd0958b285bacf60800000000000000
+      internalID: 8055450456548773297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_34
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 347
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eb7bef08a63c8c0800000000000000
+      internalID: -3980220543403573708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_35
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 346
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d30daeab86b1130800000000000000
+      internalID: 3538537084242377992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 263
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf2e681704f03940800000000000000
+      internalID: 5273983474962673627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_37
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 264
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f494ccb9ad39e880800000000000000
+      internalID: -8581259815752002320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 263
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173248b7d4a6432b0800000000000000
+      internalID: -5605738755152141455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_39
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 258
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3586d21cd420f3d90800000000000000
+      internalID: -7115966353245378477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_40
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 264
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba3fe28004335620800000000000000
+      internalID: 2761608173309606584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_41
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 258
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaeea113f2d27a50800000000000000
+      internalID: 6517503552174090984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_42
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 263
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b6778d49a741a60800000000000000
+      internalID: 7643869247260027800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_43
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 263
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5edaa0b95ee1dbe0800000000000000
+      internalID: -1454119135680471462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_44
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 263
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08073c72dfdf82b0800000000000000
+      internalID: -5579995318168647665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_45
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 266
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33e6ee2a8fffde10800000000000000
+      internalID: 2224777709901767484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_46
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 267
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15554076f9d63be80800000000000000
+      internalID: -8164061168097012399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_47
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 265
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6911ff644b1c0b180800000000000000
+      internalID: -9101561866886377066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_48
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 206
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3142fcfc66bc5bfc0800000000000000
+      internalID: -3479651494640278509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_49
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 200
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cf0e168fb8b10b0800000000000000
+      internalID: -5756853799752762320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_50
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 206
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ec3d44b824eb870800000000000000
+      internalID: 8700464696048995859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_51
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 195
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed302cf007557f10800000000000000
+      internalID: 2266813649192500704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_52
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 191
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a9d07164c5a2790800000000000000
+      internalID: -7554123968856352246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_53
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 195
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12909392f42d8830800000000000000
+      internalID: 4074953862116577818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_54
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 206
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc606ed8008601190800000000000000
+      internalID: -7993774986992679219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_55
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 200
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1458a22aa32cc1160800000000000000
+      internalID: 6997681478111495489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_56
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 206
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110df37a35b5ba3c0800000000000000
+      internalID: -4347280600449691631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_57
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 204
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6aa2c10c62f65e00800000000000000
+      internalID: 1033279710228032111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_58
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 204
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbae65d8b876d4390800000000000000
+      internalID: -7832490327858025796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_59
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 204
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c465e7ea2b02efb30800000000000000
+      internalID: 4322928644126037580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_60
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 141
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987ad99c99ac1a6a0800000000000000
+      internalID: -6439643230301739127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_61
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 139
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe2f8f897107abd0800000000000000
+      internalID: -2619123036681457924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_62
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 143
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254553bad1bc5b0f0800000000000000
+      internalID: -1101751205535329198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_63
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 132
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7838cd8d80c1daf0800000000000000
+      internalID: -373305579893409670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_64
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 133
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db141ddd25021cc0800000000000000
+      internalID: -3741922645850711080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_65
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 135
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f247590f0658d04a0800000000000000
+      internalID: -6625492825392450513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_66
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 143
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010d24ced627b87b0800000000000000
+      internalID: -5220953526565154800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_67
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 139
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6574d24b3774910800000000000000
+      internalID: 1821551791985612503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_68
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 142
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461bde4c1a05bdee0800000000000000
+      internalID: -1235305017059200668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_69
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 146
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8f5d7b54dad1f70800000000000000
+      internalID: 9159667732090058972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_70
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 146
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07266aeb131e516b0800000000000000
+      internalID: -5326103380527521168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_71
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 146
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41fb78f3b6fc3aa0800000000000000
+      internalID: -6179793335830711990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 76
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fc8f9edcf8a2160800000000000000
+      internalID: 7001566685257322316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_73
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 72
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a6f1952351195f0800000000000000
+      internalID: -751796356806382961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_74
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 74
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269d5be89d5401b70800000000000000
+      internalID: 8867664466997008738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_75
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 70
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1727c42e5c11b90800000000000000
+      internalID: -7272814347490790972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_76
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 68
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f02aa5a51655c480800000000000000
+      internalID: -8879596439317372680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_77
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 67
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936dc0829a302e8a0800000000000000
+      internalID: -6277450905544763847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_78
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 79
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea10b27626020620800000000000000
+      internalID: 2738758285597350628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_79
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 76
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce3e974d8019e070800000000000000
+      internalID: 8136052400799497920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_80
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 80
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99a7e14eb29ed400800000000000000
+      internalID: 350879166828620188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_81
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 69
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94106be529809f60800000000000000
+      internalID: 8039076130812073119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_82
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 69
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d812462b40ba62890800000000000000
+      internalID: -7483105694168374899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_83
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 69
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaf1ef5ddcb8dee0800000000000000
+      internalID: -1236030438730761554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_84
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 7
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4d714f39085ed40800000000000000
+      internalID: 5613033883530941681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_85
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dff1b61f0b3c2c0800000000000000
+      internalID: -4412488658962088667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_86
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 7
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aadff458596d10c0800000000000000
+      internalID: -4603407415998686552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_87
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 7
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272632fbdfbfa3bc0800000000000000
+      internalID: -3802449868108897678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_88
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 3
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ed09397af0a97c0800000000000000
+      internalID: -4063918501338751470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_89
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 7
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd48d37a1d8b6dc20800000000000000
+      internalID: 3230972993278411999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_90
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 16
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbe54a6a94f9ba00800000000000000
+      internalID: 772917755115858879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_91
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 10
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40f538dafd155c50800000000000000
+      internalID: 6653256987716218957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_92
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 16
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaa61e7c853c93f0800000000000000
+      internalID: -892779748599092548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_93
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 7
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c483da528b7806c30800000000000000
+      internalID: 4350626465015740492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_94
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 7
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b863a563fee2ac0800000000000000
+      internalID: -3877899212398621935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirDragon_95
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 7
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972782c736ef5fc00800000000000000
+      internalID: 933932200987488889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AirDragon_0: -6575641629114896409
+      AirDragon_1: -1875236494240580269
+      AirDragon_10: 8615079736592830054
+      AirDragon_11: -4949575948501653797
+      AirDragon_12: 5145061409200239723
+      AirDragon_13: -4055174999237699349
+      AirDragon_14: 5041400074593446240
+      AirDragon_15: -7008087771472418589
+      AirDragon_16: 4983705159511036547
+      AirDragon_17: 5296566113939337216
+      AirDragon_18: -4155487291674120153
+      AirDragon_19: -527682548634426523
+      AirDragon_2: 8591215800757327451
+      AirDragon_20: 5460788140071402298
+      AirDragon_21: -1184653134213762
+      AirDragon_22: -5674631794917404383
+      AirDragon_23: -7878021026214052018
+      AirDragon_24: -46019591479671095
+      AirDragon_25: 4371692170816578039
+      AirDragon_26: 2969277137507885226
+      AirDragon_27: 8064187774861362698
+      AirDragon_28: -7550186519869645465
+      AirDragon_29: 6555485754380753062
+      AirDragon_3: 3027952594131068146
+      AirDragon_30: 4442833293289528400
+      AirDragon_31: 6798104759621710432
+      AirDragon_32: 357084227133454749
+      AirDragon_33: 8055450456548773297
+      AirDragon_34: -3980220543403573708
+      AirDragon_35: 3538537084242377992
+      AirDragon_36: 5273983474962673627
+      AirDragon_37: -8581259815752002320
+      AirDragon_38: -5605738755152141455
+      AirDragon_39: -7115966353245378477
+      AirDragon_4: -8885152915143931261
+      AirDragon_40: 2761608173309606584
+      AirDragon_41: 6517503552174090984
+      AirDragon_42: 7643869247260027800
+      AirDragon_43: -1454119135680471462
+      AirDragon_44: -5579995318168647665
+      AirDragon_45: 2224777709901767484
+      AirDragon_46: -8164061168097012399
+      AirDragon_47: -9101561866886377066
+      AirDragon_48: -3479651494640278509
+      AirDragon_49: -5756853799752762320
+      AirDragon_5: -4190109189054825354
+      AirDragon_50: 8700464696048995859
+      AirDragon_51: 2266813649192500704
+      AirDragon_52: -7554123968856352246
+      AirDragon_53: 4074953862116577818
+      AirDragon_54: -7993774986992679219
+      AirDragon_55: 6997681478111495489
+      AirDragon_56: -4347280600449691631
+      AirDragon_57: 1033279710228032111
+      AirDragon_58: -7832490327858025796
+      AirDragon_59: 4322928644126037580
+      AirDragon_6: -5680367283330284866
+      AirDragon_60: -6439643230301739127
+      AirDragon_61: -2619123036681457924
+      AirDragon_62: -1101751205535329198
+      AirDragon_63: -373305579893409670
+      AirDragon_64: -3741922645850711080
+      AirDragon_65: -6625492825392450513
+      AirDragon_66: -5220953526565154800
+      AirDragon_67: 1821551791985612503
+      AirDragon_68: -1235305017059200668
+      AirDragon_69: 9159667732090058972
+      AirDragon_7: 7460608717309283450
+      AirDragon_70: -5326103380527521168
+      AirDragon_71: -6179793335830711990
+      AirDragon_72: 7001566685257322316
+      AirDragon_73: -751796356806382961
+      AirDragon_74: 8867664466997008738
+      AirDragon_75: -7272814347490790972
+      AirDragon_76: -8879596439317372680
+      AirDragon_77: -6277450905544763847
+      AirDragon_78: 2738758285597350628
+      AirDragon_79: 8136052400799497920
+      AirDragon_8: -7337967344827764785
+      AirDragon_80: 350879166828620188
+      AirDragon_81: 8039076130812073119
+      AirDragon_82: -7483105694168374899
+      AirDragon_83: -1236030438730761554
+      AirDragon_84: 5613033883530941681
+      AirDragon_85: -4412488658962088667
+      AirDragon_86: -4603407415998686552
+      AirDragon_87: -3802449868108897678
+      AirDragon_88: -4063918501338751470
+      AirDragon_89: 3230972993278411999
+      AirDragon_9: -3272724351455151845
+      AirDragon_90: 772917755115858879
+      AirDragon_91: 6653256987716218957
+      AirDragon_92: -892779748599092548
+      AirDragon_93: 4350626465015740492
+      AirDragon_94: -3877899212398621935
+      AirDragon_95: 933932200987488889
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

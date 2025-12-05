@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: 813fba1e60215c444bab98cb48aa2a4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 32214324526412661
+    second: FireDragon_0
+  - first:
+      213: -884621683996345120
+    second: FireDragon_1
+  - first:
+      213: 569552714480952983
+    second: FireDragon_2
+  - first:
+      213: -8006695454657712056
+    second: FireDragon_3
+  - first:
+      213: -2109212206690948124
+    second: FireDragon_4
+  - first:
+      213: 3230141868919754296
+    second: FireDragon_5
+  - first:
+      213: 1401985956732186613
+    second: FireDragon_6
+  - first:
+      213: -329423956049759220
+    second: FireDragon_7
+  - first:
+      213: 6110707797044542372
+    second: FireDragon_8
+  - first:
+      213: -6632386978031603381
+    second: FireDragon_9
+  - first:
+      213: 5364165672535094075
+    second: FireDragon_10
+  - first:
+      213: -2477353447661734631
+    second: FireDragon_11
+  - first:
+      213: -2049394367028847499
+    second: FireDragon_12
+  - first:
+      213: -1776606494564846646
+    second: FireDragon_13
+  - first:
+      213: -4760603655692831771
+    second: FireDragon_14
+  - first:
+      213: 129100964015508723
+    second: FireDragon_15
+  - first:
+      213: -6888929550514906878
+    second: FireDragon_16
+  - first:
+      213: -6473141074237305487
+    second: FireDragon_17
+  - first:
+      213: -7117794242530117941
+    second: FireDragon_18
+  - first:
+      213: -7638737148051755755
+    second: FireDragon_19
+  - first:
+      213: -3317816848417983630
+    second: FireDragon_20
+  - first:
+      213: -7390486010250697973
+    second: FireDragon_21
+  - first:
+      213: 6749002952725674444
+    second: FireDragon_22
+  - first:
+      213: -1856958473817531041
+    second: FireDragon_23
+  - first:
+      213: -7674774374270045791
+    second: FireDragon_24
+  - first:
+      213: 9128578503621563086
+    second: FireDragon_25
+  - first:
+      213: -504322500285371871
+    second: FireDragon_26
+  - first:
+      213: 1106982066161552102
+    second: FireDragon_27
+  - first:
+      213: -1494275935665701810
+    second: FireDragon_28
+  - first:
+      213: -440036233880728437
+    second: FireDragon_29
+  - first:
+      213: 3535436004709981440
+    second: FireDragon_30
+  - first:
+      213: -7781788507641508730
+    second: FireDragon_31
+  - first:
+      213: 5255889008390673835
+    second: FireDragon_32
+  - first:
+      213: -9119499285845545866
+    second: FireDragon_33
+  - first:
+      213: 7709579648449055860
+    second: FireDragon_34
+  - first:
+      213: 3585174014894546368
+    second: FireDragon_35
+  - first:
+      213: -2960080840431860990
+    second: FireDragon_36
+  - first:
+      213: 1763234695995578936
+    second: FireDragon_37
+  - first:
+      213: -3520063031837554704
+    second: FireDragon_38
+  - first:
+      213: 2654323888233819506
+    second: FireDragon_39
+  - first:
+      213: 2383452609558210865
+    second: FireDragon_40
+  - first:
+      213: -1676228180117524691
+    second: FireDragon_41
+  - first:
+      213: 7922288907432157133
+    second: FireDragon_42
+  - first:
+      213: -1951856408617255765
+    second: FireDragon_43
+  - first:
+      213: -6054401559483123826
+    second: FireDragon_44
+  - first:
+      213: 2899919208514676033
+    second: FireDragon_45
+  - first:
+      213: 5363499793239131916
+    second: FireDragon_46
+  - first:
+      213: 6289312686658791326
+    second: FireDragon_47
+  - first:
+      213: 5574976268291839632
+    second: FireDragon_48
+  - first:
+      213: 1012209785890471854
+    second: FireDragon_49
+  - first:
+      213: 7184420916040761331
+    second: FireDragon_50
+  - first:
+      213: 148977397435967195
+    second: FireDragon_51
+  - first:
+      213: -8798115387631572388
+    second: FireDragon_52
+  - first:
+      213: 8452566400082938530
+    second: FireDragon_53
+  - first:
+      213: -1212123080647995457
+    second: FireDragon_54
+  - first:
+      213: 2206245158389888627
+    second: FireDragon_55
+  - first:
+      213: -3509970416131243331
+    second: FireDragon_56
+  - first:
+      213: -5059597670054525874
+    second: FireDragon_57
+  - first:
+      213: 863347792935947115
+    second: FireDragon_58
+  - first:
+      213: -2434644136024207480
+    second: FireDragon_59
+  - first:
+      213: -1948066869809643089
+    second: FireDragon_60
+  - first:
+      213: -8853283451877317011
+    second: FireDragon_61
+  - first:
+      213: -1840868601854388329
+    second: FireDragon_62
+  - first:
+      213: 2498198098475380774
+    second: FireDragon_63
+  - first:
+      213: 8420817415633866676
+    second: FireDragon_64
+  - first:
+      213: -7474286612042444929
+    second: FireDragon_65
+  - first:
+      213: -8705272044297750962
+    second: FireDragon_66
+  - first:
+      213: -3609233285059626563
+    second: FireDragon_67
+  - first:
+      213: 8348672193917321997
+    second: FireDragon_68
+  - first:
+      213: 7493771521020820832
+    second: FireDragon_69
+  - first:
+      213: 6056104809412943172
+    second: FireDragon_70
+  - first:
+      213: 174009579671313322
+    second: FireDragon_71
+  - first:
+      213: 9017932100583091026
+    second: FireDragon_72
+  - first:
+      213: -6214345159062234137
+    second: FireDragon_73
+  - first:
+      213: -245870251748934329
+    second: FireDragon_74
+  - first:
+      213: -2680612519533971604
+    second: FireDragon_75
+  - first:
+      213: 2219995039823339130
+    second: FireDragon_76
+  - first:
+      213: -7143251919277436602
+    second: FireDragon_77
+  - first:
+      213: 3461325864517218444
+    second: FireDragon_78
+  - first:
+      213: 7563090752914152951
+    second: FireDragon_79
+  - first:
+      213: 7403533443848038250
+    second: FireDragon_80
+  - first:
+      213: -3568243289948412712
+    second: FireDragon_81
+  - first:
+      213: 878490964035977352
+    second: FireDragon_82
+  - first:
+      213: 8254944946830059098
+    second: FireDragon_83
+  - first:
+      213: -1152557380142418765
+    second: FireDragon_84
+  - first:
+      213: 6268585512576256148
+    second: FireDragon_85
+  - first:
+      213: -6695833160219834149
+    second: FireDragon_86
+  - first:
+      213: -6226733608859796460
+    second: FireDragon_87
+  - first:
+      213: 6795210953024030505
+    second: FireDragon_88
+  - first:
+      213: -3389424504067289467
+    second: FireDragon_89
+  - first:
+      213: -8895990083409707735
+    second: FireDragon_90
+  - first:
+      213: -6819734192995292417
+    second: FireDragon_91
+  - first:
+      213: -1846414747085127557
+    second: FireDragon_92
+  - first:
+      213: -2560775678770822803
+    second: FireDragon_93
+  - first:
+      213: 7038666628790384068
+    second: FireDragon_94
+  - first:
+      213: -2880249528076426083
+    second: FireDragon_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireDragon_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 453
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573731ae1c2727000800000000000000
+      internalID: 32214324526412661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 454
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec3acce34139b3f0800000000000000
+      internalID: -884621683996345120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 453
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7962f7b1d2577e700800000000000000
+      internalID: 569552714480952983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 463
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8407460c7e082e090800000000000000
+      internalID: -8006695454657712056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_4
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 454
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eba4405ca29ab2e0800000000000000
+      internalID: -2109212206690948124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_5
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 463
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e041f6ae4c3dc20800000000000000
+      internalID: 3230141868919754296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_6
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 453
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffab13bccad47310800000000000000
+      internalID: 1401985956732186613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_7
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 453
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04762748a6ad6bf0800000000000000
+      internalID: -329423956049759220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_8
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 453
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abbc019d589dc450800000000000000
+      internalID: 6110707797044542372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_9
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 469
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41ff71fe2705f3a0800000000000000
+      internalID: -6632386978031603381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_10
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 468
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b337cc33248517a40800000000000000
+      internalID: 5364165672535094075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_11
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 470
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91578093a2cae9dd0800000000000000
+      internalID: -2477353447661734631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 396
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c1f8c6ea61f83e0800000000000000
+      internalID: -2049394367028847499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 397
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac37fc95ec93857e0800000000000000
+      internalID: -1776606494564846646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 396
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3b00aa230feedb0800000000000000
+      internalID: -4760603655692831771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 397
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc0e4c84a8aac100800000000000000
+      internalID: 129100964015508723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 397
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2091edaa21b9560a0800000000000000
+      internalID: -6888929550514906878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 398
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d48193d78ca26a0800000000000000
+      internalID: -6473141074237305487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_18
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 399
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6fbad19d3883d90800000000000000
+      internalID: -7117794242530117941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_19
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 399
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d6bcd1901cdf590800000000000000
+      internalID: -7638737148051755755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_20
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 399
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2737d38a72fb4f1d0800000000000000
+      internalID: -3317816848417983630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_21
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 413
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0363815128bf6990800000000000000
+      internalID: -7390486010250697973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_22
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 414
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9b6418d6649ad50800000000000000
+      internalID: 6749002952725674444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_23
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 413
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d547d4b12ca36e0800000000000000
+      internalID: -1856958473817531041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 332
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1fc5a8e59bd7590800000000000000
+      internalID: -7674774374270045791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 334
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec251a4a8c93fae70800000000000000
+      internalID: 9128578503621563086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 332
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ae046ab594009f0800000000000000
+      internalID: -504322500285371871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_27
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 334
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea894af25acc5f00800000000000000
+      internalID: 1106982066161552102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_28
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 333
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c3b3a14f3434be0800000000000000
+      internalID: -1494275935665701810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_29
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 333
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c0d3f606da4e9f0800000000000000
+      internalID: -440036233880728437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_30
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 333
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d5dd29054601130800000000000000
+      internalID: 3535436004709981440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_31
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 333
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c8fccf498810490800000000000000
+      internalID: -7781788507641508730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_32
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 333
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5910cc43ba0f840800000000000000
+      internalID: 5255889008390673835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_33
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 346
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c6fb977b7017180800000000000000
+      internalID: -9119499285845545866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_34
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 347
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c0369d7ddedfa60800000000000000
+      internalID: 7709579648449055860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_35
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 346
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd10cf75c811c130800000000000000
+      internalID: 3585174014894546368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 263
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2038e97a82eabe6d0800000000000000
+      internalID: -2960080840431860990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 264
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ad57e2d94487810800000000000000
+      internalID: 1763234695995578936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 263
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f786589259362fc0800000000000000
+      internalID: -3520063031837554704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_39
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 258
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27da20d538d06d420800000000000000
+      internalID: 2654323888233819506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_40
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 264
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139e1b33589b31120800000000000000
+      internalID: 2383452609558210865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_41
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 258
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f6899e957dcb8e0800000000000000
+      internalID: -1676228180117524691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_42
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 263
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfd28789cf91fd60800000000000000
+      internalID: 7922288907432157133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_43
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 263
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac7ccf00fc99e4e0800000000000000
+      internalID: -1951856408617255765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_44
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 263
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87ff67fbd17afba0800000000000000
+      internalID: -6054401559483123826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_45
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 269
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14569dcd7259e3820800000000000000
+      internalID: 2899919208514676033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_46
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 271
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0746e815aafe6a40800000000000000
+      internalID: 5363499793239131916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_47
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 269
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97a7a9f090284750800000000000000
+      internalID: 6289312686658791326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_48
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 206
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09694c6e06b4e5d40800000000000000
+      internalID: 5574976268291839632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_49
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 200
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaffc26ff671c0e00800000000000000
+      internalID: 1012209785890471854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_50
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 206
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fffe7922c034b360800000000000000
+      internalID: 7184420916040761331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 195
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6abb55726411200800000000000000
+      internalID: 148977397435967195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_52
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 191
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a625b5ba0d6e580800000000000000
+      internalID: -8798115387631572388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_53
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 195
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa88557b5c8d4570800000000000000
+      internalID: 8452566400082938530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_54
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 206
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf8ce1fa7cad2fe0800000000000000
+      internalID: -1212123080647995457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_55
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 200
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376314948482e9e10800000000000000
+      internalID: 2206245158389888627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_56
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 206
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db20e5ec0841a4fc0800000000000000
+      internalID: -3509970416131243331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_57
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 204
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44810ad9b2b8c9b0800000000000000
+      internalID: -5059597670054525874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_58
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 204
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b80935e3a3bfb00800000000000000
+      internalID: 863347792935947115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_59
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 204
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f0acdbe08663ed0800000000000000
+      internalID: -2434644136024207480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_60
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 141
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa10a42d08317f4e0800000000000000
+      internalID: -1948066869809643089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_61
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 139
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6622037b91d22580800000000000000
+      internalID: -8853283451877317011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_62
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 143
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7979c4c82cbe376e0800000000000000
+      internalID: -1840868601854388329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_63
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 132
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6207e2e3fe16ba220800000000000000
+      internalID: 2498198098475380774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_64
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 133
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf8749f2d0ccd470800000000000000
+      internalID: 8420817415633866676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_65
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 135
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f80c34deff54890800000000000000
+      internalID: -7474286612042444929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_66
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 143
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e467e7eb239a03780800000000000000
+      internalID: -8705272044297750962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_67
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 139
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db93184237d69edc0800000000000000
+      internalID: -3609233285059626563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_68
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 142
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d038f9090217cd370800000000000000
+      internalID: 8348672193917321997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_69
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 146
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d7262ae793ff760800000000000000
+      internalID: 7493771521020820832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_70
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 146
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dd79fcc3b9b0450800000000000000
+      internalID: 6056104809412943172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_71
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 146
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabd2df6ac43a6200800000000000000
+      internalID: 174009579671313322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_72
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 76
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25be8d76771262d70800000000000000
+      internalID: 9017932100583091026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_73
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 72
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb5d6ab00632c9a0800000000000000
+      internalID: -6214345159062234137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 74
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d3ba70f4e769cf0800000000000000
+      internalID: -245870251748934329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_75
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 70
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6776b0bd1d8ccad0800000000000000
+      internalID: -2680612519533971604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_76
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 68
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e9cc70ab10fce10800000000000000
+      internalID: 2219995039823339130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_77
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 67
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641575ad9321edc90800000000000000
+      internalID: -7143251919277436602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_78
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 79
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80bb6ee889190030800000000000000
+      internalID: 3461325864517218444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_79
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 76
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd5d7308fe75f860800000000000000
+      internalID: 7563090752914152951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_80
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 80
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67694b0172aeb660800000000000000
+      internalID: 7403533443848038250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_81
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 69
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4247612ad0b7ec0800000000000000
+      internalID: -3568243289948412712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_82
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 69
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88041c990e6013c00800000000000000
+      internalID: 878490964035977352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_83
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 69
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56263c41b47f8270800000000000000
+      internalID: 8254944946830059098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_84
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 7
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b43b555b2b4100f0800000000000000
+      internalID: -1152557380142418765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_85
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4988441bf4d7ef650800000000000000
+      internalID: 6268585512576256148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_86
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 7
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8c0d1873f9313a0800000000000000
+      internalID: -6695833160219834149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 7
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cfcecf5c23699a0800000000000000
+      internalID: -6226733608859796460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_88
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 3
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92747d4fb507d4e50800000000000000
+      internalID: 6795210953024030505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_89
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 7
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e801a1f5856f0d0800000000000000
+      internalID: -3389424504067289467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_90
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 16
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d77f0f6281b8480800000000000000
+      internalID: -8895990083409707735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_91
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 10
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa2eeb42ef6b51a0800000000000000
+      internalID: -6819734192995292417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_92
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 16
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70c2fbf1973066e0800000000000000
+      internalID: -1846414747085127557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_93
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 7
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61c765761c467cd0800000000000000
+      internalID: -2560775678770822803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_94
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 7
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c57275a10e5ea160800000000000000
+      internalID: 7038666628790384068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_95
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 7
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94a48e705c4708d0800000000000000
+      internalID: -2880249528076426083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireDragon_0: 32214324526412661
+      FireDragon_1: -884621683996345120
+      FireDragon_10: 5364165672535094075
+      FireDragon_11: -2477353447661734631
+      FireDragon_12: -2049394367028847499
+      FireDragon_13: -1776606494564846646
+      FireDragon_14: -4760603655692831771
+      FireDragon_15: 129100964015508723
+      FireDragon_16: -6888929550514906878
+      FireDragon_17: -6473141074237305487
+      FireDragon_18: -7117794242530117941
+      FireDragon_19: -7638737148051755755
+      FireDragon_2: 569552714480952983
+      FireDragon_20: -3317816848417983630
+      FireDragon_21: -7390486010250697973
+      FireDragon_22: 6749002952725674444
+      FireDragon_23: -1856958473817531041
+      FireDragon_24: -7674774374270045791
+      FireDragon_25: 9128578503621563086
+      FireDragon_26: -504322500285371871
+      FireDragon_27: 1106982066161552102
+      FireDragon_28: -1494275935665701810
+      FireDragon_29: -440036233880728437
+      FireDragon_3: -8006695454657712056
+      FireDragon_30: 3535436004709981440
+      FireDragon_31: -7781788507641508730
+      FireDragon_32: 5255889008390673835
+      FireDragon_33: -9119499285845545866
+      FireDragon_34: 7709579648449055860
+      FireDragon_35: 3585174014894546368
+      FireDragon_36: -2960080840431860990
+      FireDragon_37: 1763234695995578936
+      FireDragon_38: -3520063031837554704
+      FireDragon_39: 2654323888233819506
+      FireDragon_4: -2109212206690948124
+      FireDragon_40: 2383452609558210865
+      FireDragon_41: -1676228180117524691
+      FireDragon_42: 7922288907432157133
+      FireDragon_43: -1951856408617255765
+      FireDragon_44: -6054401559483123826
+      FireDragon_45: 2899919208514676033
+      FireDragon_46: 5363499793239131916
+      FireDragon_47: 6289312686658791326
+      FireDragon_48: 5574976268291839632
+      FireDragon_49: 1012209785890471854
+      FireDragon_5: 3230141868919754296
+      FireDragon_50: 7184420916040761331
+      FireDragon_51: 148977397435967195
+      FireDragon_52: -8798115387631572388
+      FireDragon_53: 8452566400082938530
+      FireDragon_54: -1212123080647995457
+      FireDragon_55: 2206245158389888627
+      FireDragon_56: -3509970416131243331
+      FireDragon_57: -5059597670054525874
+      FireDragon_58: 863347792935947115
+      FireDragon_59: -2434644136024207480
+      FireDragon_6: 1401985956732186613
+      FireDragon_60: -1948066869809643089
+      FireDragon_61: -8853283451877317011
+      FireDragon_62: -1840868601854388329
+      FireDragon_63: 2498198098475380774
+      FireDragon_64: 8420817415633866676
+      FireDragon_65: -7474286612042444929
+      FireDragon_66: -8705272044297750962
+      FireDragon_67: -3609233285059626563
+      FireDragon_68: 8348672193917321997
+      FireDragon_69: 7493771521020820832
+      FireDragon_7: -329423956049759220
+      FireDragon_70: 6056104809412943172
+      FireDragon_71: 174009579671313322
+      FireDragon_72: 9017932100583091026
+      FireDragon_73: -6214345159062234137
+      FireDragon_74: -245870251748934329
+      FireDragon_75: -2680612519533971604
+      FireDragon_76: 2219995039823339130
+      FireDragon_77: -7143251919277436602
+      FireDragon_78: 3461325864517218444
+      FireDragon_79: 7563090752914152951
+      FireDragon_8: 6110707797044542372
+      FireDragon_80: 7403533443848038250
+      FireDragon_81: -3568243289948412712
+      FireDragon_82: 878490964035977352
+      FireDragon_83: 8254944946830059098
+      FireDragon_84: -1152557380142418765
+      FireDragon_85: 6268585512576256148
+      FireDragon_86: -6695833160219834149
+      FireDragon_87: -6226733608859796460
+      FireDragon_88: 6795210953024030505
+      FireDragon_89: -3389424504067289467
+      FireDragon_9: -6632386978031603381
+      FireDragon_90: -8895990083409707735
+      FireDragon_91: -6819734192995292417
+      FireDragon_92: -1846414747085127557
+      FireDragon_93: -2560775678770822803
+      FireDragon_94: 7038666628790384068
+      FireDragon_95: -2880249528076426083
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
