@@ -79,7 +79,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -93,7 +93,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -145,10 +145,10 @@ TextureImporter:
       name: tiny_dragon_ice_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 26
-        width: 22
-        height: 19
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,10 +167,10 @@ TextureImporter:
       name: tiny_dragon_ice_1
       rect:
         serializedVersion: 2
-        x: 20
-        y: 13
-        width: 24
-        height: 38
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,10 +189,10 @@ TextureImporter:
       name: tiny_dragon_ice_2
       rect:
         serializedVersion: 2
-        x: 38
-        y: 26
-        width: 22
-        height: 19
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,10 +211,10 @@ TextureImporter:
       name: tiny_dragon_ice_3
       rect:
         serializedVersion: 2
-        x: 68
-        y: 15
-        width: 40
-        height: 38
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,10 +233,10 @@ TextureImporter:
       name: tiny_dragon_ice_4
       rect:
         serializedVersion: 2
-        x: 102
-        y: 27
-        width: 22
-        height: 20
+        x: 256
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,10 +255,10 @@ TextureImporter:
       name: tiny_dragon_ice_5
       rect:
         serializedVersion: 2
-        x: 132
-        y: 30
-        width: 22
-        height: 19
+        x: 320
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,209 +273,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_ice_6
-      rect:
-        serializedVersion: 2
-        x: 148
-        y: 17
-        width: 24
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 185370f9e5d360780800000000000000
-      internalID: -8717212552124746367
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_ice_7
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 30
-        width: 22
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 073afd13c357b0650800000000000000
-      internalID: 6200178213400847216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_ice_8
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 15
-        width: 40
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10dd29fc071755730800000000000000
-      internalID: 3987217774439226625
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_ice_9
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 27
-        width: 22
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b1ca3fefff92b0df0800000000000000
-      internalID: -213030377899185125
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_ice_10
-      rect:
-        serializedVersion: 2
-        x: 260
-        y: 26
-        width: 22
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 23841ce158f42b160800000000000000
-      internalID: 7039776600698734642
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_ice_11
-      rect:
-        serializedVersion: 2
-        x: 276
-        y: 13
-        width: 24
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c4da6372f5004c0b0800000000000000
-      internalID: -5709438018919158452
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_ice_12
-      rect:
-        serializedVersion: 2
-        x: 294
-        y: 26
-        width: 22
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4ed86d863081fe550800000000000000
-      internalID: 6192194415580581348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_ice_13
-      rect:
-        serializedVersion: 2
-        x: 324
-        y: 12
-        width: 40
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fc8c88d0c8a19bbe0800000000000000
-      internalID: -1461107415280203569
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_ice_14
-      rect:
-        serializedVersion: 2
-        x: 358
-        y: 24
-        width: 22
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a3a03fcd68e6d4170800000000000000
-      internalID: 8164303225004165690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d05f665d879c2b8408fbfad6e4f99877
     internalID: 0
     vertices: []
     indices: 
@@ -487,19 +289,10 @@ TextureImporter:
     nameFileIdTable:
       tiny_dragon_ice_0: 8071066909337135737
       tiny_dragon_ice_1: 7147772727176441231
-      tiny_dragon_ice_10: 7039776600698734642
-      tiny_dragon_ice_11: -5709438018919158452
-      tiny_dragon_ice_12: 6192194415580581348
-      tiny_dragon_ice_13: -1461107415280203569
-      tiny_dragon_ice_14: 8164303225004165690
       tiny_dragon_ice_2: -7682758348033961283
       tiny_dragon_ice_3: 5852825591267347691
       tiny_dragon_ice_4: -1352448979208345248
       tiny_dragon_ice_5: 9216437193865423036
-      tiny_dragon_ice_6: -8717212552124746367
-      tiny_dragon_ice_7: 6200178213400847216
-      tiny_dragon_ice_8: 3987217774439226625
-      tiny_dragon_ice_9: -213030377899185125
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -79,7 +79,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -93,7 +93,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -145,10 +145,10 @@ TextureImporter:
       name: tiny_dragon_shadow_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 26
-        width: 22
-        height: 19
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,10 +167,10 @@ TextureImporter:
       name: tiny_dragon_shadow_1
       rect:
         serializedVersion: 2
-        x: 20
-        y: 13
-        width: 24
-        height: 38
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,10 +189,10 @@ TextureImporter:
       name: tiny_dragon_shadow_2
       rect:
         serializedVersion: 2
-        x: 38
-        y: 26
-        width: 22
-        height: 19
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,10 +211,10 @@ TextureImporter:
       name: tiny_dragon_shadow_3
       rect:
         serializedVersion: 2
-        x: 68
-        y: 15
-        width: 40
-        height: 38
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,10 +233,10 @@ TextureImporter:
       name: tiny_dragon_shadow_4
       rect:
         serializedVersion: 2
-        x: 102
-        y: 27
-        width: 22
-        height: 20
+        x: 256
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,10 +255,10 @@ TextureImporter:
       name: tiny_dragon_shadow_5
       rect:
         serializedVersion: 2
-        x: 132
-        y: 30
-        width: 22
-        height: 19
+        x: 320
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,209 +273,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_shadow_6
-      rect:
-        serializedVersion: 2
-        x: 148
-        y: 17
-        width: 24
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9d593d68e8d09c40800000000000000
-      internalID: 5517148036305345947
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_shadow_7
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 30
-        width: 22
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f16c281b953a0c40800000000000000
-      internalID: 5479250836891394545
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_shadow_8
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 15
-        width: 40
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f524ed13ce28452e0800000000000000
-      internalID: -2137939972133600673
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_shadow_9
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 27
-        width: 22
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 317264177cdec5f60800000000000000
-      internalID: 8024550076922078995
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_shadow_10
-      rect:
-        serializedVersion: 2
-        x: 260
-        y: 26
-        width: 22
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be8109fc339aa3cc0800000000000000
-      internalID: -3730483301332281109
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_shadow_11
-      rect:
-        serializedVersion: 2
-        x: 276
-        y: 13
-        width: 24
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4d0bbde746769e700800000000000000
-      internalID: 570100509161795796
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_shadow_12
-      rect:
-        serializedVersion: 2
-        x: 294
-        y: 26
-        width: 22
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 38fc1de2425331860800000000000000
-      internalID: 7499396234022604675
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_shadow_13
-      rect:
-        serializedVersion: 2
-        x: 324
-        y: 12
-        width: 40
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f64491b14b67c75c0800000000000000
-      internalID: -4216364635204795281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tiny_dragon_shadow_14
-      rect:
-        serializedVersion: 2
-        x: 358
-        y: 24
-        width: 22
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 895882f03246b3c30800000000000000
-      internalID: 4340172767642551704
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ac13a54b042a958408af887cd6d73ac0
     internalID: 0
     vertices: []
     indices: 
@@ -487,19 +289,10 @@ TextureImporter:
     nameFileIdTable:
       tiny_dragon_shadow_0: 4297403456888479643
       tiny_dragon_shadow_1: -6577730915339007606
-      tiny_dragon_shadow_10: -3730483301332281109
-      tiny_dragon_shadow_11: 570100509161795796
-      tiny_dragon_shadow_12: 7499396234022604675
-      tiny_dragon_shadow_13: -4216364635204795281
-      tiny_dragon_shadow_14: 4340172767642551704
       tiny_dragon_shadow_2: 8573117386481767789
       tiny_dragon_shadow_3: -7713536743056062213
       tiny_dragon_shadow_4: -5627031278315613233
       tiny_dragon_shadow_5: 11167677962058878
-      tiny_dragon_shadow_6: 5517148036305345947
-      tiny_dragon_shadow_7: 5479250836891394545
-      tiny_dragon_shadow_8: -2137939972133600673
-      tiny_dragon_shadow_9: 8024550076922078995
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
