@@ -27,6 +27,7 @@ public class FishplayerMovement : MonoBehaviour
     {
         float x = 0f;
         float y = 0f;
+        //
 
         if (Input.GetKey(KeyCode.RightArrow)) x = speed;
         if (Input.GetKey(KeyCode.LeftArrow)) x = -speed;
