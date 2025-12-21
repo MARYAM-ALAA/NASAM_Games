@@ -1,6 +1,6 @@
+using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -10,6 +10,8 @@ public class PlayerMovement : MonoBehaviour
 
     [Header("Animator")]
     [SerializeField] private Animator animator;
+
+    [Header("Balloon Settings")]
     [SerializeField] private Transform balloon;
     [SerializeField] private float normalBalloonSize = 0.6f;
     [SerializeField] private float maxBalloonSize = 9f;
@@ -29,7 +31,7 @@ public class PlayerMovement : MonoBehaviour
     public int exhalePresses = 8;
 
     private Rigidbody2D rb;
-    private Vector2 input;
+    private Vector2 movement;
 
     // حالات التنفس والطيران
     private bool isHoldingBreath = false;
