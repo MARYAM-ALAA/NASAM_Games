@@ -1,31 +1,53 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
     [Header("Movement Settings")]
-    [SerializeField] private float speed = 7f;    
-    [SerializeField] private float verticalSpeed = 3f; 
+    [SerializeField] private float speed = 7f;
+    [SerializeField] private float verticalSpeed = 3f;
 
     [Header("Animator")]
     [SerializeField] private Animator animator;
 
     [Header("Balloon Settings")]
     [SerializeField] private Transform balloon;
-    [SerializeField] private float normalBalloonSize = .6f;
-    [SerializeField] private float maxBalloonSize = 1.2f;
-    [SerializeField] private float balloonSmooth = 5f;
-    [SerializeField] private float floatHeight = 0.5f;   
+    [SerializeField] private float normalBalloonSize = 0.6f;
+    [SerializeField] private float maxBalloonSize = 9f;
+    [SerializeField] private float balloonIncrease = 1.5f;
+
+    [Header("Sounds")]
+    public AudioSource appleSound;
+    public AudioSource holeAppleSound;
+    public AudioSource exhaleAudio;
+
+    [Header("Flying Settings")]
+    public Transform treePosition;
+    public float flySpeed = 5f;
+
+    [Header("Breath Settings")]
+    public int holdBreathPresses = 7;
+    public int exhalePresses = 8;
 
     private Rigidbody2D rb;
     private Vector2 movement;
 
+    // حالات التنفس والطيران
+    private bool isHoldingBreath = false;
+    private bool isExhaling = false;
+    private bool isFlying = false;
+    private int currentPresses = 0;
+
+    // Flags
+    private bool holeOpened = false;
+    private bool playerInsideHole = false;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-
         if (animator == null)
             animator = GetComponent<Animator>();
-
         if (balloon != null)
             balloon.localScale = Vector3.one * normalBalloonSize;
     }
@@ -34,7 +56,47 @@ public class PlayerMovement : MonoBehaviour
     {
         HandleMovementInput();
         HandleAnimationAndFlip();
-        HandleBalloon();
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            if (isHoldingBreath)
+            {
+                currentPresses++;
+                Debug.Log("Hold Breath Presses: " + currentPresses);
+
+                if (currentPresses >= holdBreathPresses)
+                {
+                    isHoldingBreath = false;
+                    currentPresses = 0;
+                    StartExhalePhase();
+                }
+            }
+            else if (isExhaling)
+            {
+                currentPresses++;
+                Debug.Log("Exhale Presses: " + currentPresses);
+
+                if (balloon != null)
+                {
+                    float newSize = Mathf.Min(maxBalloonSize, balloon.localScale.x + balloonIncrease);
+                    balloon.localScale = new Vector3(newSize, newSize, newSize);
+                }
+
+                if (currentPresses >= exhalePresses)
+                {
+                    isExhaling = false;
+                    currentPresses = 0;
+                    StartFlying();
+                }
+            }
+        }
+
+        if (isFlying)
+        {
+            transform.position = Vector3.MoveTowards(transform.position, treePosition.position, flySpeed * Time.deltaTime);
+
+        }
+
     }
 
     void FixedUpdate()
@@ -46,14 +108,13 @@ public class PlayerMovement : MonoBehaviour
     {
         float inputX = Input.GetAxisRaw("Horizontal");
         float inputY = Input.GetAxisRaw("Vertical");
-
-        
         movement = new Vector2(inputX * speed, inputY * verticalSpeed) * Time.fixedDeltaTime;
     }
 
     void MovePlayer()
     {
-        rb.MovePosition(rb.position + movement);
+        if (!isFlying) // أثناء الطيران، الحركة تتم بواسطة MoveTowards
+            rb.MovePosition(rb.position + movement);
     }
 
     void HandleAnimationAndFlip()
@@ -65,30 +126,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
         animator.SetBool("isRunning", movement.x != 0);
-
-        if (movement.x > 0)
-            transform.localScale = new Vector3(1, 1, 1);
-        else if (movement.x < 0)
-            transform.localScale = new Vector3(-1, 1, 1);
-    }
-
-    void HandleBalloon()
-    {
-        if (balloon == null) return;
-
-        bool isGoingUp = movement.y > 0;                         
-        bool isAboveGround = transform.position.y > floatHeight; 
-
-        
-        float targetSize = (isGoingUp || isAboveGround)
-                           ? maxBalloonSize
-                           : normalBalloonSize; 
-
-        balloon.localScale = Vector3.Lerp(
-            balloon.localScale,
-            Vector3.one * targetSize,
-            Time.deltaTime * balloonSmooth
-        );
+        transform.localScale = new Vector3(movement.x >= 0 ? 1 : -1, 1, 1);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -96,6 +134,66 @@ public class PlayerMovement : MonoBehaviour
         if (collision.gameObject.CompareTag("target"))
         {
             Destroy(collision.gameObject);
+            appleSound.Play();
         }
+        else if (collision.gameObject.CompareTag("holetarget"))
+        {
+            Destroy(collision.gameObject);
+            holeAppleSound.Play();
+
+            if (!holeOpened)
+            {
+                holeOpened = true;
+                playerInsideHole = true;
+                currentPresses = 0;
+                isHoldingBreath = true;
+            }
+        }
+
+        if (isFlying && collision.gameObject.CompareTag("Ball"))
+        {
+            Rigidbody2D ballRb = collision.gameObject.GetComponent<Rigidbody2D>();
+            if (ballRb != null)
+                ballRb.isKinematic = false;
+
+            // ابدأ Coroutine لتحريك اللاعب ناحية الشمال بشكل سلس
+            StartCoroutine(MoveAwaySmoothly());
+
+            isFlying = false;
+        }
+
+
+
     }
+
+    void StartExhalePhase()
+    {
+        isExhaling = true;
+        currentPresses = 0;
+        if (exhaleAudio != null && !exhaleAudio.isPlaying)
+            exhaleAudio.Play();
+    }
+
+    void StartFlying()
+    {
+        isFlying = true;
+    }
+
+    private IEnumerator MoveAwaySmoothly()
+    {
+        float duration = 0.5f; // مدة الحركة بالنصف ثانية
+        float elapsed = 0f;
+        Vector2 startPos = rb.position;
+        Vector2 targetPos = startPos + Vector2.left * 5f; // 5 وحدات ناحية الشمال
+
+        while (elapsed < duration)
+        {
+            rb.MovePosition(Vector2.Lerp(startPos, targetPos, elapsed / duration));
+            elapsed += Time.deltaTime;
+            yield return null;
+        }
+
+        rb.MovePosition(targetPos); // تأكد أنه وصل تمامًا
+    }
+
 }

@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Enemy
   - target
+  - Ground
+  - Breathing Zone
+  - holetarget
+  - Ball
   layers:
   - Default
   - TransparentFX
@@ -22,7 +26,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - holetext
   - 
   - 
   - 
