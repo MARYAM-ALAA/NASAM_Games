@@ -1,5 +1,7 @@
 using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
+
 
 public class BallOnTree : MonoBehaviour
 {
@@ -10,6 +12,11 @@ public class BallOnTree : MonoBehaviour
     public AudioSource audioSource;
     public float rollSpeed = 2f; // سرعة التدحرج
     public float rollTime = 3f;  // مدة التدحرج قبل التوقف
+
+    [Header("Winner Scene")]
+    public string winnerSceneName = "winnerballon";
+    public float delayBeforeWinScene = 2f;
+
 
     void Start()
     {
@@ -49,19 +56,30 @@ public class BallOnTree : MonoBehaviour
 
         // نوقف الكورة
         rb.linearVelocity = Vector2.zero;
-        rb.angularVelocity = 0f; // لو في دوران
-        rb.isKinematic = true; // تمنع أي حركة بعد كده
+        rb.angularVelocity = 0f;
+        rb.isKinematic = true;
 
-        // شغل الصوت بعد ما الكورة توقف
+        // شغل صوت الفوز
         PlayWinSound();
+
+        // استنى شوية وبعدين افتح Winner Scene
+        yield return new WaitForSeconds(delayBeforeWinScene);
+        SceneManager.LoadScene(winnerSceneName);
     }
+
 
     void PlayWinSound()
     {
         if (!hasPlayedSound && audioSource)
         {
             hasPlayedSound = true;
+
+            // خلي الصوت يفضل بعد تغيير المشهد
+            audioSource.transform.parent = null; // نفصل الصوت عن الكورة
+            DontDestroyOnLoad(audioSource.gameObject);
+
             audioSource.Play();
         }
     }
+
 }
